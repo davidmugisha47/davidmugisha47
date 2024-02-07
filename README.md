@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate full-stack developer from Rwanda</h3>
 
-- 🔭 I’m currently working on [Lyric Groove](https://github.com/davidmugisha47/Lyric-Grove)
+- 🔭 I’m currently working on [Awesome Tours]
 
 - 🌱 I’m currently learning **React Native**
 
