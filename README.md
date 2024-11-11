@@ -2,7 +2,7 @@
 
 ## About Me
 
-Welcome! I'm a web development enthusiast who started my journey in 2018. My passion for web technologies was sparked during an Engineering apprenticeship at Andela Rwanda. With over three years in the field, I've continuously expanded my expertise through various online platforms, shaping me into a dedicated and skilled web professional.
+Welcome! I'm a web development enthusiast who began my journey in 2018. My passion for web technologies was sparked during an Engineering apprenticeship at Andela Rwanda. With over three years in the field, I've continuously expanded my expertise through various online platforms, shaping me into a dedicated and skilled web professional.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidmugisha47/davidmugisha47/output/github-contribution-grid-snake-dark.svg">
@@ -12,7 +12,7 @@ Welcome! I'm a web development enthusiast who started my journey in 2018. My pas
 
 ## Connect with Me
 
-- LinkedIn: [Visit](https://www.linkedin.com/in/david-mugisha1/)
-- Personal Website: [David Mugisha]((https://www.davidmugisha.com/))
+- LinkedIn: [Visit my LinkedIn profile](https://www.linkedin.com/in/david-mugisha1/)
+- Personal Website: [David Mugisha](https://www.davidmugisha.com/)
 
 <!-- Feel free to add or remove any sections above to fit your profile. -->
