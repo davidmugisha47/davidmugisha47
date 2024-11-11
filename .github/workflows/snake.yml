@@ -1,10 +1,8 @@
 name: Generate Snake Animation
 
 on:
-  # Runs the workflow every day at midnight
   schedule:
-    - cron: "0 0 * * *"
-  # Allows the workflow to be run manually from the Actions tab
+    - cron: "0 0 * * *"  # Runs every day at midnight
   workflow_dispatch:
 
 jobs:
@@ -15,18 +13,20 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v2
 
-      - name: Generate Snake Contribution Graph
-        uses: Platane/snk@v3
+      # Generate the contribution snake as an SVG file
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ davidmugisha47 }}
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Push the generated image to the repository
-      - name: Upload images to GitHub
-        uses: actions/upload-artifact@v2
+      # Push the generated SVG to the `output` branch
+      - name: Push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          name: github-snake
-          path: dist/
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
