@@ -10,6 +10,7 @@ Welcome! I'm a web development enthusiast who began my journey in 2018. My passi
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davidmugisha47/davidmugisha47/output/github-contribution-grid-snake.svg">
 </picture>
 
+
 ## Connect with Me
 
 - LinkedIn: [Visit my LinkedIn profile](https://www.linkedin.com/in/david-mugisha1/)
