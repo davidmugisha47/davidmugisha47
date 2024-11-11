@@ -13,6 +13,6 @@ Welcome! I'm a web development enthusiast who started my journey in 2018. My pas
 ## Connect with Me
 
 - LinkedIn: [Visit](https://www.linkedin.com/in/david-mugisha1/)
-- Personal Website: [David Mugisha](<http://YourWebsite.com](https://www.davidmugisha.com/)>)
+- Personal Website: [David Mugisha](<(https://www.davidmugisha.com/)>)
 
 <!-- Feel free to add or remove any sections above to fit your profile. -->
