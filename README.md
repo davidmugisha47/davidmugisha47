@@ -2,7 +2,7 @@
 
 I’m David Mugisha, a skilled and dedicated software developer focused on building high-quality, impactful web applications. With a solid foundation in front-end and back-end technologies, I specialize in crafting seamless user interfaces and scalable server-side solutions. I thrive in collaborative environments where innovation and continuous learning are at the forefront.
 
-I'm always open to discussing exciting projects or tech challenges. Feel free to reach out at **davidkhalifa47@gmail.com** for any professional inquiries or collaborations.
+I'm always open to discussing exciting projects or tech challenges. Feel free to reach out at **contact@davidmugisha.com** for any professional inquiries or collaborations.
 
 ![snake gif](https://github.com/davidmugisha47/davidmugisha47/blob/output/github-snake-dark.svg)
 
