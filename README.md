@@ -9,7 +9,6 @@ I'm always open to discussing exciting projects or tech challenges. Feel free to
 ## Connect with Me
 
 - LinkedIn: [Visit](https://www.linkedin.com/in/david-mugisha1/)
-- Personal Website: [David Mugisha](https://www.davidmugisha.com/)
 
 ## Tech Stack
 
